@@ -26,4 +26,4 @@ Programming Languages, Compilers, Parallel Computing, Low-Power Computing, Compu
     - 2004–2006 — Mobile App Development (NTT DoCoMo, Vodafone/SoftBank MIDP, Qualcomm BREW)
     - 2001–2004 — Suika Studio (Gaming)
 - ⚡ Fun fact:
-    - Finished CS at the age of 14, submitted original research on Software DSM to Waseda Univ., and was granted special admission
+    - Finished CS at 14, submitted original research on Software DSM to Waseda Univ., and was granted special admission
