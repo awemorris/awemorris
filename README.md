@@ -22,7 +22,7 @@ Programming Languages, Compilers, Parallel Computing, Low-Power Computing, Compu
     - 2014 — Vietnam Offshore Agile Development Trainee (Req, Dev, QC, QA, Mgmt)
     - 2012–2014 — Software Quality and Automatic Testing (R&D)
     - 2010–2012 — Java Automatic Parallelization Compiler (Research)
-    - 2006–2012 — Various Intelligent Web Crawlers
+    - 2006–2012 — Various Distributed or Intelligent Web Crawlers
     - 2004–2006 — Mobile App Development (NTT DoCoMo, Vodafone/SoftBank MIDP, Qualcomm BREW)
     - 2001–2004 — Suika Studio (Gaming)
 - ⚡ Fun fact:
