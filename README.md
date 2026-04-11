@@ -2,7 +2,7 @@
 
 I'm a Senior CS Researcher and Principal Systems Engineer
 who bridges the gaps between various areas in CS, such as
-Programming Languages, Compilers, Parallel Computing, High Performance Computing, Computer Architecture.
+Programming Languages, Compilers, Parallel Computing, Low-Power Computing, Computer Architecture.
 
 - 😄 Pronouns: /aːwe/, "ah-weh"
 - 🌱 I'm currently learning ...
