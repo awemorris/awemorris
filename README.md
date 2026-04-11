@@ -1,31 +1,29 @@
 ## About The Author
 
-Awe (/aːwe/, "ah-weh") is a Senior CS Researcher and Principal Systems Engineer,
-specializing in compilers, systems software, and cross-platform runtime architectures.
+I'm a Senior CS Researcher and Principal Systems Engineer
+who bridges the gaps between various areas in CS, such as
+Programming Languages, Compilers, Parallel Computing, High Performance Computing, Computer Architecture.
 
-- 2004 — Qualcomm BREW App Development
-- 2004 — NTT DoCoMo DoJa App Development
-- 2005 — Vodafone / Sharp Mobile App Development
-- 2006 — SoftBank / Sharp Mobile App Development
-- 2006–2012 — Various Intelligent Web Crawlers
-- 2010–2012 — Java Automatic Parallelization Compiler (Research)
-- 2012–2014 — Software Quality and Automatic Testing (R&D)
-- 2014 — Vietnam Offshore Agile Development Trainee (Req, Dev, QC, QA, Mgmt)
-- 2015–2019 — Process Mining and Business Process Improvement (Research / Consultant)
-- 2017–2024 — AI FPGA Design / Apache TVM (Research)
-- 2022–2024 — Space Satellite AI Computing with JAXA (Research)
-- 2024–2025 — PlayStation 5+ BIOS Development
-
-- 🔭 I’m currently working on ...
-    - NPU & Compiler Design — Chief Architect (R&D)
-    - Suika3 — 2D Game and Visual Novel Engine (Lead Developer)
-
-- 🌱 I’m currently learning ...
+- 😄 Pronouns: /aːwe/, "ah-weh"
+- 🌱 I'm currently learning ...
+    - Cooking 🍳
     - Chinese — 你好！
     - Vietnamese — Xin chào!
 - 📫 Contact
     - Discord: awemorris
-- 😄 Pronouns: /aːwe/, "ah-weh"
-- ⚡ Fun facts:
-    - Finished uni-level CS at the age of 14, then submitted original research to a uni, and was granted special admission
-    - After breaking a bone in a car accident and taking vitamin D, his long-standing seasonal affective disorder went away
+- Past Works:
+    - 2026- — Suika3, a 2D Game and Visual Novel Engine (Lead Developer)
+    - 2025- — NPU & Compiler Design, Chief Architect (R&D)
+    - 2024–2025 — PlayStation 5+ BIOS Development
+    - 2022–2024 — Software-defined Space Satellite AI Computing with JAXA (Research)
+    - 2017–2024 — AI FPGA Design / Apache TVM (Research)
+    - 2016–2024 — Suika2 (Gaming)
+    - 2015–2019 — Process Mining and Business Process Improvement (Research / Consultant)
+    - 2014 — Vietnam Offshore Agile Development Trainee (Req, Dev, QC, QA, Mgmt)
+    - 2012–2014 — Software Quality and Automatic Testing (R&D)
+    - 2010–2012 — Java Automatic Parallelization Compiler (Research)
+    - 2006–2012 — Various Intelligent Web Crawlers
+    - 2004–2006 — Mobile App Development (NTT DoCoMo, Vodafone/SoftBank MIDP, Qualcomm BREW)
+    - 2001–2004 — Suika Studio (Gaming)
+- ⚡ Fun fact:
+    - Finished CS at the age of 14, submitted original research on Software DSM to Waseda Univ., and was granted special admission
