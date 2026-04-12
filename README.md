@@ -1,5 +1,6 @@
 ## About
 
+- My job? Hmm, I just spend my days doing whatever I like.
 - 😄 Pronouns: /aːwe/, "ah-weh"
 - 🌱 Currently distracted by cooking, baking, and pretending to learn Chinese — 你好！
 - 💻 I somehow ended up between too many fields:
