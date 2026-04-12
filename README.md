@@ -1,29 +1,30 @@
 ## About The Author
 
-I'm a Senior CS Researcher and Principal Systems Engineer
-who bridges the gaps between various areas in CS, such as
-Programming Languages, Compilers, Parallel Computing, Low-Power Computing, and Computer Architecture.
-
 - 😄 Pronouns: /aːwe/, "ah-weh"
-- 🌱 I'm currently learning ...
-    - Cooking 🍳
+- 🌱 I'm currently learning...
+    - Cooking & Baking
     - Chinese — 你好！
-    - Vietnamese — Xin chào!
+- 💻 I'm a hybrid CS Researcher and Systems Engineer who bridges the gaps between:
+    - Computer Archtecture & Processor Design
+    - Programming Languages & Compilers
+    - Parallel Computing & High-Performance Computing
+    - Low-Power Computing & Embedded Computing
+    - Operating Systems & Runtimes
+    - Computer Graphics & Game Engines
+    - AI Accelerator & Compiler Design
 - 📫 Contact
     - Discord: awemorris
+    - Mail: awe@noctvm.io
 - Past Works:
-    - 2026- — Suika3, a 2D Game and Visual Novel Engine (Lead Developer)
+    - 2026- — Suika3: 2D Game and Visual Novel Engine (Author)
     - 2025- — NPU & Compiler Design, Chief Architect (R&D)
-    - 2024–2025 — PlayStation 5+ BIOS Development
-    - 2022–2024 — Software-defined Space Satellite AI Computing with JAXA (Research)
-    - 2017–2024 — AI FPGA Design / Apache TVM (Research)
-    - 2016–2024 — Suika2 (Gaming)
+    - 2024–2025 — PlayStation 5 BIOS (R&D)
+    - 2022–2024 — Software-defined Space Satellite AI Computing, Joint Research with JAXA (Research)
+    - 2017–2024 — AI FPGA Design / Apache TVM Contribution (Research)
     - 2015–2019 — Process Mining and Business Process Improvement (Research / Consultant)
     - 2014 — Vietnam Offshore Agile Development Trainee (Req, Dev, QC, QA, Mgmt)
-    - 2012–2014 — Software Quality and Automatic Testing (R&D)
+    - 2012–2014 — Software Quality and Model-based Testing (R&D)
     - 2010–2012 — Java Automatic Parallelization Compiler (Research)
-    - 2006–2012 — Various Distributed or Intelligent Web Crawlers
-    - 2004–2006 — Mobile App Development (NTT DoCoMo DoJa, Vodafone/SoftBank MIDP, au/Qualcomm BREW)
-    - 2001–2004 — Suika Studio (Gaming)
-- ⚡ Fun fact:
-    - Finished CS at 14, submitted original research on Software DSM to Waseda Univ. at 18, and was granted special admission
+    - 2006–2012 — Various Distributed or Intelligent Web Crawlers (Development)
+    - 2004–2006 — Mobile App Development for NTT DoCoMo DoJa, Vodafone MIDP, au BREW (Development)
+    - 2000-2004 — Some freeware
