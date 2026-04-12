@@ -1,8 +1,9 @@
 ## About
 
-- My job? Hmm, I just spend my days doing whatever I like.
 - 😄 Pronouns: /aːwe/, "ah-weh"
-- 🌱 Currently distracted by cooking, baking, and pretending to learn Chinese — 你好！
+- 🌱 Currently distracted by cooking Chinese foods, baking cheesecakes, and pretending to learn Chinese — 你好！
+- My job? Hmm, I just spend my days doing whatever I like.
+- 2E, ASD, ADHD — which probably explains the rest.
 - 💻 I somehow ended up between too many fields:
     - Computer Architecture & Processor Design
     - Programming Languages & Compilers
