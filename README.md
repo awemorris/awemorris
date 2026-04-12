@@ -23,7 +23,7 @@ Programming Languages, Compilers, Parallel Computing, Low-Power Computing, and C
     - 2012–2014 — Software Quality and Automatic Testing (R&D)
     - 2010–2012 — Java Automatic Parallelization Compiler (Research)
     - 2006–2012 — Various Distributed or Intelligent Web Crawlers
-    - 2004–2006 — Mobile App Development (NTT DoCoMo, Vodafone/SoftBank MIDP, Qualcomm BREW)
+    - 2004–2006 — Mobile App Development (NTT DoCoMo DoJa, Vodafone/SoftBank MIDP, au/Qualcomm BREW)
     - 2001–2004 — Suika Studio (Gaming)
 - ⚡ Fun fact:
-    - Finished CS at 14, submitted original research on Software DSM to Waseda Univ., and was granted special admission
+    - Finished CS at 14, submitted original research on Software DSM to Waseda Univ. at 18, and was granted special admission
