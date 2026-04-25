@@ -1,6 +1,6 @@
 ## About
 
-- 😄 Pronouns: /aːwe/, "ah-weh"
+- 😄 Pronunciation: /a e/, "ah-eh", /mori/, "morry"
 - 🌱 Currently distracted by cooking Chinese foods, baking cheesecakes, and pretending to learn Chinese — 你好！
 - My job? Hmm, I just spend my days doing whatever I like.
 - 2E, ASD, ADHD — which probably explains the rest.
@@ -14,8 +14,6 @@
 - ⛩ Religion:
     - Shrine Shinto
     - I'm a Minarai Kami-sama (Wanna-be! Don't translate Kami to God, it's just a spirit!)
-    - Theology and Philosophy were my minors, I also have deep respect and sympathy for what Buddha and Christ said.
-    - But my heart belongs to Japanese deities as they kindly respond to me!
 - 📫 Contact
     - Discord: awemorris
     - Mail: awe@noctvm.io
