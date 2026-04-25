@@ -11,6 +11,11 @@
     - Operating Systems & Runtimes
     - Graphics, Game Engines & Embedded Systems
     - AI Accelerator & Compiler Design
+- ⛩ Religion:
+    - Shrine Shinto
+    - I'm a Minarai Kami-sama (Wanna-be! Don't translate Kami to God, it's just a spirit!)
+    - Theology and Philosophy were my minors, I also have deep respect and sympathy for what Buddha and Christ said.
+    - But my heart belongs to Japanese deities as they kindly respond to me!
 - 📫 Contact
     - Discord: awemorris
     - Mail: awe@noctvm.io
