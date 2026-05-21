@@ -33,7 +33,7 @@
 - 2000–2004 — Some old freeware
 
 ### Spoiler
-- Born in a poor fisherman's village in Japan
+- Born in a poor fisherman's village in Japan, weeds around house were also food
 - Got an old computer at 11, studied CS at a nearby town library, and finished it by 14
 - Wasn't good at regular schoolwork, couldn't get into any uni at 17
 - Wrote Software-DSM at 18, sent it to Waseda uni, which caused special exam-exempt
