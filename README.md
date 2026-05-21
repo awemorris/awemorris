@@ -1,6 +1,6 @@
 ## About
 
-- 😄 Pronunciation: /a e/, "ah-eh", /mori/, "morry"
+- 😄 Pronunciation: "ah-eh"
 - 🌱 Currently distracted by cooking Chinese foods, baking cheesecakes, and pretending to learn Chinese — 你好！
 - My job? Hmm, I just spend my days doing whatever I like.
 - 2E, ASD, ADHD — which probably explains the rest.
@@ -13,7 +13,6 @@
     - AI Accelerator & Compiler Design
 - ⛩ Religion:
     - Shrine Shinto
-    - I'm a Minarai Kami-sama (Wanna-be! Don't translate Kami to God, it's just a spirit!)
 - 📫 Contact
     - Discord: awemorris
     - Mail: awe@noctvm.io
@@ -28,7 +27,13 @@
 - 2015 — Project Colombo: Sent to Sri Lanka to organize a sightseeing tour and a banquet for scholars (Research)
 - 2014 — Project HCMC: Sent to Vietnam to learn everything about software development at once (Development)
 - 2012–2014 — Model-based Testing: Tried to make software testing less painful (Research)
-- 2010–2012 — Parallel Javac: Made Java automatically parallelize itself (it mostly worked)
+- 2010–2012 — Parallelizing Javac: Made Java automatically parallelize itself (it mostly worked)
 - 2006–2012 — Web crawlers of questionable ambition, mostly targeted HR & recruitment data (Development)
 - 2004–2006 — Mobile apps back when phones had 10 keys (Development)
 - 2000–2004 — Some old freeware
+
+### Spoiler
+- Born in a poor fisherman's village in Japan
+- Got an old computer at 11, studied CS at a nearby town library, and finished it by 14
+- Wrote Software-DSM at 18, sent it to uni, which caused exam exempt
+- Lately, I've been volunteering to teach programming to local children
