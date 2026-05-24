@@ -48,7 +48,7 @@
 ### Spoiler
 - Born in a poor fisherman's village in Japan, weeds around house were also food
 - Got an old computer at 11, studied CS at a nearby town library, and finished it by 14
-- Wasn't good at regular schoolwork at preparatory school due overplay of galge, couldn't get into any uni at 17
+- Wasn't good at regular schoolwork at preparatory school due to overplay of galge, couldn't get into any uni at 17
 - Wrote Software-DSM at 18, sent it to Waseda uni, which caused special exam-exempt
 - Lived in Wakeijuku, an old dormitory once home to Haruki Murakami, where my Tokyo accent was slowly patched into existence
 - Lately, I've been volunteering to teach programming to local children and adults looking for work
