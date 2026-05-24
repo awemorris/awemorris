@@ -53,4 +53,3 @@
 - Lived in Wakeijuku, an old dormitory once home to Haruki Murakami, where my Tokyo accent was slowly patched into existence
 - Lately, I've been volunteering to teach programming to local children and adults looking for work
 - I'm living alone with two furry friends in a small house in Tokyo, working from home
-=
