@@ -1,7 +1,7 @@
 ## About
 
 - 😄 Pronunciation: "ah-eh"
-- 🌱 Currently distracted by cooking Chinese foods, baking cheesecakes, and pretending to learn Chinese — 你好！
+- 🌱 Currently distracted by cooking Chinese food, baking cheesecakes, and pretending to learn Chinese — 你好！
 - My job? Hmm, I just spend my days doing whatever I like.
 - 2E, ASD, ADHD — which probably explains the rest.
 - 💻 I somehow ended up between too many fields:
@@ -20,12 +20,12 @@
     - Indian & Sri Lankan: Spice Curry, my favorite is South Indian / Sri Lankan fish curry
     - Thai: Green Curry
     - Vietnamese: Bánh Mì, I actually like Bún Chả Giò the most, but I can't get Bún here
-    - Korean: 비빔밥, 볶음밥, 돼지고기 김치볶음, I like mariage of kimchi and sesame oil
-    - Japanese: Oyakodon, Udon, Soba, Okonomiyaki, I like Dashi recipe, but actually I'm not used to central cuisines as born in Hokkaido
-    - Ramen: Hakata Tonkotsu, Sapporo Miso, Asahikawa Shoyu, Hakodate Shio, everything in 10 minutes, the key is flavored oil
+    - Korean: Mainly fried rice, 비빔밥, 볶음밥, 돼지고기 김치볶음, I like the marriage of kimchi and sesame oil!
+    - Japanese: Oyakodon, Udon, Soba, Okonomiyaki, I like Dashi recipe, but actually I'm not used to central cuisines as born in Hokkaido...
+    - Ramen: Hakata Tonkotsu, Sapporo Miso, Asahikawa Shoyu, Hakodate Shio, everything in 10 minutes, the key is flavored oil...!
     - Sweets: Basque Cheesecake, Chocolate Gâteau, Tarta de Santiago, I bake whenever I have guests!
     - British: Scones, I throw a tea party when guests come over, I like Wedgewood ware and Fortnum & Mason leaf
-    - Fun fact is I can copy&cook flavors I ate at restaurants lol
+    - Fun fact: I can easily recreate any restaurant dish just from memory lol
 - 📫 Contact
     - Discord: awemorris
     - Mail: awe@noctvm.io
