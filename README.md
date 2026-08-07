@@ -1,6 +1,6 @@
 ## About
 
-- Name: Awe Morris (Ah-eh Moh-ree, Japanese: もり あえ)
+- Name: Awe Morris (Ah-eh Moh-ree, Japanese: 森 あえ)
 - Currently distracted by cooking and baking
 - My job? Hmm, I just spend my days doing whatever I like.
 - 2E, ASD, ADHD — which probably explains the rest.
