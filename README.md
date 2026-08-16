@@ -14,7 +14,7 @@
     - Requirement Engineering & Quality Engineering
     - Business Process Improvement
 - ⛩ Religion:
-    - Shrine Shinto
+    - Ise Shinto
 - 🍳 Cooking
     - Japanese: Oyakodon, Udon, Soba, Okonomiyaki, I like Dashi recipe, but actually I'm not used to central cuisines as born in Hokkaido...
     - Chinese: 棒棒鶏, 担担麺, 麻婆豆腐, 回鍋肉, 我不仅注重味道，也重视香气
