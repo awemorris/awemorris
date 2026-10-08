@@ -33,24 +33,26 @@
     - Mail: awe@suika3.vn
 
 ### Things I've worked on, roughly in reverse order
+- 2026– — zedBSD: an operating system built out of AI hallucinations
 - 2026– — Suika3: a 2D game / visual novel engine that probably doesn't need to exist
-- 2025– — NPU: Designing an NPU and its compiler, apparently as chief architect (R&D)
-- 2024–2025 — PS5 BIOS: Something involving a PlayStation boot firmware at SIE (R&D)
+- 2025– — NPU: Designing an NPU and its compiler, ostensibly as chief architect (R&D)
+- 2024–2025 — PS5 BIOS: Something involving PlayStation boot firmware at SIE (R&D)
 - 2022–2024 — Satellite AI: Apparently I was the only one who didn't fall for the Russian spy — though at the time my colleagues called me a conspiracy theorist (Research)
 - 2017–2024 — FPGA AI: FPGA stuff for AI, some Apache TVM patches (Research)
-- 2015–2019 — Process Mining: told companies what they were doing wrong (Research & Consultant)
+- 2015–2019 — Process Mining: told companies what they were doing wrong (Research & Consulting)
 - 2015 — Project Colombo: Sent to Sri Lanka to organize a sightseeing tour and a banquet for scholars (Research)
-- 2014 — Project HCMC: Sent to Vietnam to learn everything about software development at once (Development)
+- 2014 — Project HCMC: Sent to Vietnam to learn everything about software development all at once (Development)
 - 2012–2014 — Model-based Testing: Tried to make software testing less painful (Research)
 - 2010–2012 — Automatic Compiler Parallelization of Java: A dream tech though (Master's thesis)
-- 2006–2012 — Web crawlers of questionable ambition, mostly targeted HR & recruitment data (Development)
+- 2006–2012 — Web crawlers of questionable ambition, mostly targeting HR & recruitment data (Development)
 - 2004–2006 — Mobile apps back when phones had 10 keys (Development)
 - 2000–2004 — Some old freeware
+- 1996 — Got my first PC, got bored with N88-BASIC in three days, jumped straight to C
 
 ### Spoiler
 - Born in a poor fisherman's village in Japan, weeds around house were also food
 - Got an old computer at 11, studied CS at a nearby town library, and finished it by 14
-- Couldn't get into any university at 17, as I was too focused on programming and Galge, not good at regular schoolwork
+- Couldn't get into Hokkaido University at 17, as I was too focused on programming and Galge lol
 - Wrote Software-DSM at 18, sent it to Waseda University, which led to a special exam exemption
 - Lived in Wakeijuku, an old dormitory once home to Haruki Murakami, where my Tokyo accent was slowly patched into existence
 - Since then, I've pretended to be a businessman in a suit, a technician in work clothes, an engineer in a T-shirt, and a researcher in a sweater
