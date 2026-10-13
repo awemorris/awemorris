@@ -34,7 +34,7 @@
 
 ### Things I've worked on, roughly in reverse order
 - 2026– — zedBSD: an operating system built out of AI hallucinations
-- 2026– — Suika3: a 2D game / visual novel engine that probably doesn't need to exist
+- 2026– — Suika3: a 2D game / visual novel engine that probably doesn't need to exist / Last hand-written software
 - 2025– — NPU: Designing an NPU and its compiler, ostensibly as chief architect (R&D)
 - 2024–2025 — PS5 BIOS: Something involving PlayStation boot firmware at SIE (R&D)
 - 2022–2024 — Satellite AI: Apparently I was the only one who didn't fall for the Russian spy — though at the time my colleagues called me a conspiracy theorist (Research)
