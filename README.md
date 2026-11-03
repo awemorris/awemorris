@@ -33,7 +33,9 @@
     - Mail: awe@suika3.vn
 
 ### Things I've worked on, roughly in reverse order
-- 2026– — zedBSD: an operating system built out of AI hallucinations
+- 2026– — zedBSD: an operating system with advanced touch UI/UX
+- 2026– — amaterrace-gpu: the first open-source modern GPU RTL
+- 2026– — sukuna-risc: yet another RISC-V implementation
 - 2026– — Suika3: a 2D game / visual novel engine that probably doesn't need to exist / Last hand-written software
 - 2025– — NPU: Designing an NPU and its compiler, ostensibly as chief architect (R&D)
 - 2024–2025 — PS5 BIOS: Something involving PlayStation boot firmware at SIE (R&D)
