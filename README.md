@@ -3,7 +3,7 @@
 - Name: Awe Morris (Ah-eh Moh-ree, Japanese: 森 あえ)
 - Currently distracted by cooking and baking
 - My job? Hmm, I just spend my days doing whatever I like.
-- Neurodivergent — which probably explains the rest.
+- Neurodivergent (OE/ASD/ADHD) — which probably explains the rest.
 - 💻 I somehow ended up between too many fields:
     - Computer Architecture & Processor Design
     - Parallel & High-Performance Computing
@@ -59,4 +59,6 @@
 - Lived in Wakeijuku, an old dormitory once home to Haruki Murakami, where my Tokyo accent was slowly patched into existence
 - Since then, I've pretended to be a businessman in a suit, a technician in work clothes, an engineer in a T-shirt, and a researcher in a sweater
 - Lately, I've been volunteering to teach programming to local children and adults looking for work
+- Currently working as a Manager at a leading Japanese corporation
+- My comp? That's a secret...! (honestly equivalent to a practicing hospital doctor)
 - I'm living alone with two furry friends in a small house near Yokota Air Base, working from home!
