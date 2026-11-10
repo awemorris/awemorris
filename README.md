@@ -36,8 +36,9 @@
 - 2026– — zedBSD: an operating system with advanced touch UI/UX
 - 2026– — amaterrace-gpu: the first open-source modern GPU RTL
 - 2026– — sukuna-risc: yet another RISC-V implementation
-- 2026– — Suika3: a 2D game / visual novel engine that probably doesn't need to exist / Last hand-written software
-- 2025– — NPU: Designing an NPU and its compiler, ostensibly as chief architect (R&D)
+- 2026– — Suika3: a 2D game / visual novel engine that probably doesn't need to exist / My final hand-written work
+- 2025– — NPU: Designing an NPU and its compiler, ostensibly as a designer (R&D)
+- 2025– — Noct: a scripting language with hand-written multi-architecture JIT
 - 2024–2025 — PS5 BIOS: Something involving PlayStation boot firmware at SIE (R&D)
 - 2022–2024 — Satellite AI: Apparently I was the only one who didn't fall for the Russian spy — though at the time my colleagues called me a conspiracy theorist (Research)
 - 2017–2024 — FPGA AI: FPGA stuff for AI, some Apache TVM patches (Research)
