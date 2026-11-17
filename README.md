@@ -6,8 +6,8 @@
   </tr>
   <tr>
     <td><a href="https://github.com/awemorris/zedBSD"><b>🖥️ zedBSD & Keiland</b></a><br><sub>POSIX.1-2024 and Desktop</sub></td>
-    <td><a href="https://github.com/awemorris/amaterrace-gpu"><b>⚡ Amaterrace GPU (ATG1)</b></a><br><sub>Vulkan-class GPU RTL and drivers</sub></td>
-    <td><a href="https://github.com/awemorris/sukuna-risc"><b>🧠 Sukuna RISC (SRV1)</b></a><br><sub>RV64G RTL, 3-SMT</sub></td>
+    <td><a href="https://github.com/awemorris/amaterrace-gpu"><b>⚡ Amaterrace GPU)</b></a><br><sub>Vulkan-class GPU RTL and drivers</sub></td>
+    <td><a href="https://github.com/awemorris/sukuna-risc"><b>🧠 Sukuna RISC</b></a><br><sub>RV64G RTL, 3-SMT</sub></td>
     <td><a href="https://github.com/awemorris/AwesomePlan"><b>🤖 Awesome Plan</b></a><br><sub>Agentic Software Production Engineering</sub></td>
   </tr>
   <tr>
