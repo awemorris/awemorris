@@ -2,22 +2,22 @@
 
 <table>
   <tr>
-    <th colspan="4" align="left">Moonphaser SoC Development</th>
+    <th colspan="4" align="left">Computing</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/awemorris/zedBSD"><b>🖥️ zedBSD & Keiland</b></a><br><sub>POSIX.1-2024 and Desktop</sub></td>
-    <td><a href="https://github.com/awemorris/amaterrace-gpu"><b>⚡ Amaterrace GPU)</b></a><br><sub>Vulkan-class GPU RTL</sub></td>
-    <td><a href="https://github.com/awemorris/sukuna-risc"><b>🧠 Sukuna RISC</b></a><br><sub>RV64G RTL, 3-SMT</sub></td>
+    <td><a href="https://github.com/awemorris/zedBSD"><b>🖥️ zedBSD & Keiland</b></a><br><sub>POSIX.1-2024 OS & Desktop</sub></td>
+    <td><a href="https://github.com/awemorris/amaterrace-gpu"><b>⚡ Amaterrace GPU</b></a><br><sub>Vulkan-class GPU RTL</sub></td>
+    <td><a href="https://github.com/awemorris/sukuna-risc"><b>🧠 Sukuna RISC</b></a><br><sub>RV64G RTL, 3-way SMT</sub></td>
     <td><a href="https://github.com/awemorris/AwesomePlan"><b>🤖 Awesome Plan</b></a><br><sub>Agentic Software Production Engineering</sub></td>
   </tr>
   <tr>
-    <th colspan="4" align="left">NEC PC-9800 & Retro Computing</th>
+    <th colspan="4" align="left">Retrospective and Sentimental Computing</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/awemorris/mirai98"><b>💽 Mirai98</b></a><br><sub>USB-bootable PC-9800 Virtualization Server</sub></td>
     <td><a href="https://github.com/awemorris/qemu-pc98"><b>⚙️ qemu-pc98</b></a><br><sub>QEMU fork for PC-9800</sub></td>
     <td><a href="https://github.com/awemorris/linux-pc98"><b>🐧 linux-pc98</b></a><br><sub>Linux 7.x kernel and userland for PC-9800</sub></td>
     <td><a href="https://github.com/awemorris/freebsd-src-pc98"><b>😈 freebsd-src-pc98</b></a><br><sub>FreeBSD 15 for PC-9800</sub></td>
+    <td><a href="https://github.com/awemorris/mirai98"><b>💽 Mirai98</b></a><br><sub>USB-bootable PC-9800 Virtualization Server</sub></td>
   </tr>
   <tr>
     <td><a href="https://github.com/awemorris/debian-i486"><b>🌀 debian-i486</b></a><br><sub>Debian 13 packages for i486</sub></td>
@@ -26,11 +26,11 @@
     <td><a href="https://github.com/awemorris/gcc-i386"><b>⚙️ gcc-i386</b></a><br><sub>GCC toolchain tuned for i386</sub></td>
   </tr>
   <tr>
-    <th colspan="4" align="left">Visual Novel & Game Development</th>
+    <th colspan="4" align="left">What If Visual Novels Bloomed in the 22nd Century?</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/awemorris/suika3"><b>🍉 Suika3</b></a><br><sub>Portable game engine for VN & 2D</sub></td>
-    <td><a href="https://github.com/awemorris/PlayfieldEngine"><b>🎮 PlayfieldEngine</b></a><br><sub>2D game engine foundation</sub></td>
+    <td><a href="https://github.com/awemorris/suika3"><b>🍉 Suika3</b></a><br><sub>Portable VN engine</sub></td>
+    <td><a href="https://github.com/awemorris/PlayfieldEngine"><b>🎮 PlayfieldEngine</b></a><br><sub>2D game foundation</sub></td>
     <td><a href="https://github.com/awemorris/StratoHAL"><b>🎨 StratoHAL</b></a><br><sub>Game HAL</sub></td>
     <td><a href="https://github.com/awemorris/NoctLang"><b>🌙 NoctLang</b></a><br><sub>The Noct programming language</sub></td>
   </tr>
