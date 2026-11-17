@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th colspan="4" align="left">Computing</th>
+    <th colspan="4" align="left">Future of Computing</th>
   </tr>
   <tr>
     <td><a href="https://github.com/awemorris/zedBSD"><b>🖥️ zedBSD & Keiland</b></a><br><sub>POSIX.1-2024 OS & Desktop</sub></td>
