@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/awemorris/mirai98"><b>💽 Mirai98</b></a><br><sub>USB-bootable PC-9800 Virtualization Server</sub></td>
-    <td><a href="https://github.com/awemorris/qemu-pc98"><b>⚙️ qemu-pc98</b></a><br><sub>QEMU fork for NEC PC-9800 emulation</sub></td>
+    <td><a href="https://github.com/awemorris/qemu-pc98"><b>⚙️ qemu-pc98</b></a><br><sub>QEMU fork for PC-9800</sub></td>
     <td><a href="https://github.com/awemorris/linux-pc98"><b>🐧 linux-pc98</b></a><br><sub>Linux 7.x kernel and userland for PC-9800</sub></td>
     <td><a href="https://github.com/awemorris/freebsd-src-pc98"><b>😈 freebsd-src-pc98</b></a><br><sub>FreeBSD 15 for PC-9800</sub></td>
   </tr>
