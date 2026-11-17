@@ -1,3 +1,47 @@
+## Projects
+
+<table>
+  <tr>
+    <th colspan="4" align="left">Moonphaser SoC Development</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/awemorris/zedBSD"><b>📦 zedBSD</b></a><br><sub>POSIX.1-2024 and Touch-oriented Desktop</sub></td>
+    <td><a href="https://github.com/awemorris/amaterrace-gpu"><b>📦 Amaterrace GPU</b></a><br><sub>Vulkan-class GPU RTL and drivers</sub></td>
+    <td><a href="https://github.com/awemorris/sukuna-risc"><b>📦 Sukuna RISC</b></a><br><sub>64-bit RISC-V RTL, in-order, 2-issue, 3-SMT, 9-staged</sub></td>
+    <td><a href="https://github.com/awemorris/AwesomePlan"><b>📦 Awesome Plan</b></a><br><sub>Agentic Software Production Engineering</sub></td>
+  </tr>
+  <tr>
+    <th colspan="4" align="left">NEC PC-9800 & Retro Computing</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/awemorris/mirai98"><b>📦 Mirai98</b></a><br><sub>USB-bootable PC-9800 Virtualization Server</sub></td>
+    <td><a href="https://github.com/awemorris/qemu-pc98"><b>📦 qemu-pc98</b></a><br><sub>QEMU fork for NEC PC-9800 emulation</sub></td>
+    <td><a href="https://github.com/awemorris/linux-pc98"><b>📦 linux-pc98</b></a><br><sub>Linux 7.x kernel and userland for PC-9800</sub></td>
+    <td><a href="https://github.com/awemorris/freebsd-src-pc98"><b>📦 freebsd-src-pc98</b></a><br><sub>FreeBSD 15 for PC-9800</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/awemorris/debian-i486"><b>📦 debian-i486</b></a><br><sub>Debian 13 packages for i486</sub></td>
+    <td><a href="https://github.com/awemorris/glibc-i386"><b>📦 glibc-i386</b></a><br><sub>glibc tuned for i386</sub></td>
+    <td><a href="https://github.com/awemorris/musl-i386"><b>📦 musl-i386</b></a><br><sub>musl libc tuned for i386</sub></td>
+    <td><a href="https://github.com/awemorris/gcc-i386"><b>📦 gcc-i386</b></a><br><sub>GCC toolchain tuned for i386</sub></td>
+  </tr>
+  <tr>
+    <th colspan="4" align="left">Visual Novel & Game Development</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/awemorris/suika3"><b>📦 Suika3</b></a><br><sub>Portable game engine for visual novels and & 2D games</sub></td>
+    <td><a href="https://github.com/awemorris/PlayfieldEngine"><b>📦 PlayfieldEngine</b></a><br><sub>Cross-platform 2D game engine foundation</sub></td>
+    <td><a href="https://github.com/awemorris/StratoHAL"><b>📦 StratoHAL</b></a><br><sub>Game HAL</sub></td>
+    <td><a href="https://github.com/awemorris/NoctLang"><b>📦 NoctLang</b></a><br><sub>The Noct programming language</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/awemorris/suika2"><b>📦 Suika2</b></a><br><sub>Multi-platform visual novel engine</sub></td>
+    <td><a href="https://github.com/awemorris/suika-studio-2004"><b>📦 Suika Studio 2004</b></a><br><sub>Visual novel authoring tool (2004)</sub></td>
+    <td><a href="https://github.com/awemorris/suika-studio-2002"><b>📦 Suika Studio 2002</b></a><br><sub>Visual novel authoring tool (2002)</sub></td>
+    <td> </td>
+  </tr>
+</table>
+
 ## About
 
 - Name: Awe Morris (Ah-eh Moh-ree, Japanese: 森 あえ)
@@ -15,7 +59,7 @@
     - Business Process Improvement
 - ⛩ Religion:
     - Ise Shinto
-- 🍳 Cooking
+- 🍳 [Cooking](https://github.com/awemorris/KitchenAwe)
     - Japanese: Oyakodon, Udon, Soba, Okonomiyaki, I like Dashi recipe, but actually I'm not used to central cuisines as born in Hokkaido...
     - Chinese: 棒棒鶏, 担担麺, 麻婆豆腐, 回鍋肉, 我不仅注重味道，也重视香气
     - Italian: Aglio Olio, Bolognese, Pizza Margherita, mi piacciono le erbe aromatiche italiane!
