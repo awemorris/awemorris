@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/awemorris/zedBSD"><b>🖥️ zedBSD & Keiland</b></a><br><sub>POSIX.1-2024 OS & Desktop</sub></td>
-    <td><a href="https://github.com/awemorris/amaterrace-gpu"><b>⚡ Amaterrace GPU</b></a><br><sub>Vulkan-class GPU RTL</sub></td>
+    <td><a href="https://github.com/awemorris/lumiere-gpu"><b>⚡ Lumiere GPU</b></a><br><sub>Vulkan-class GPU RTL</sub></td>
     <td><a href="https://github.com/awemorris/sukuna-risc"><b>🧠 Sukuna RISC</b></a><br><sub>RV64G RTL, 3-way SMT</sub></td>
     <td><a href="https://github.com/awemorris/AwesomePlan"><b>🤖 Awesome Plan</b></a><br><sub>Agentic Software Production Engineering</sub></td>
   </tr>
@@ -78,7 +78,7 @@
 
 ### Things I've worked on, roughly in reverse order
 - 2026– — zedBSD: an operating system with advanced touch UI/UX
-- 2026– — amaterrace-gpu: the first open-source modern GPU RTL
+- 2026– — lumiere-gpu: the first open-source modern GPU RTL
 - 2026– — sukuna-risc: yet another RISC-V implementation
 - 2026– — Suika3: a 2D game / visual novel engine that probably doesn't need to exist / My final hand-written work
 - 2025– — NPU: Designing an NPU and its compiler, ostensibly as a designer (R&D)
